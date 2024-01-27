@@ -1,2 +1,4 @@
-# sse-spring-2024
-Materials for EE G7701 Secure Systems Engineering, Spring 2024
+# Secure Systems Engineering, Spring 2024
+
+Course materials will be uploaded here. Check the [website](https://tjo.is/teaching/sse-sp24/) for more details.
+
